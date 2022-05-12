@@ -1,5 +1,6 @@
 {
   "name": "portfolio-react-app",
+  "homepage":"http://chafeiyahya.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,12 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
+  
   "browserslist": {
     "production": [
       ">0.2%",
