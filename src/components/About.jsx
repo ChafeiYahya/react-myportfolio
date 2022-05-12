@@ -17,9 +17,9 @@ const About = () => {
               <p>Hi. I'm Yahya, nice to meet you. </p>
             </div>
             <div>
-              <p>I am passionate software engineer that hopes to improve
-              the lives of people. I specialize in creating web applications
-              for individual clients, small-businesses and startups. Let's make something 
+              <p>  I specialize in building (and occasionally
+              designing) exceptional digital experiences. Currently, I’m focused on
+              building responsive full-stack web applications. Let's make something 
               great together.</p>  
             </div>
           </div>
