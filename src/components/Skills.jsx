@@ -17,7 +17,7 @@ import Jee from '../assets/jee.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-screen bg-[#090a0c] text-gray-300'>
+    <div name='skills' className='w-full h-screen bg-[#24272d] text-gray-300'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-5 flex flex-col justify-center w-full h-full'>
           <div>

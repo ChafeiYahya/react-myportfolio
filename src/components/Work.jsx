@@ -30,7 +30,7 @@ const Work = () => {
                 Angular Web App
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/ChafeiYahya/ng-gamedb'>
+                <a href='https://github.com/ChafeiYahya/ng-gamedb' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -48,7 +48,7 @@ const Work = () => {
                 React JS Web App
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/ChafeiYahya/ReactJS_Portfolio'>
+                <a href='https://github.com/ChafeiYahya/ReactJS_Portfolio' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -67,7 +67,7 @@ const Work = () => {
                 React JS Web App
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/ChafeiYahya/ReactJSwebapp'>
+                <a href='https://github.com/ChafeiYahya/ReactJSwebapp' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>

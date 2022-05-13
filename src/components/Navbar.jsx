@@ -100,7 +100,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/in/chafei-yahya-7a58661a2/'
+              href='https://www.linkedin.com/in/chafei-yahya-7a58661a2/' target="_blank"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -108,7 +108,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://github.com/ChafeiYahya'
+              href='https://github.com/ChafeiYahya' target="_blank"
             >
               Github <FaGithub size={30} />
             </a>
@@ -117,7 +117,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1igcbh180vqV-s60NOA8r3ZQ4LWBO-nm2/view?usp=sharing'
+              href='https://drive.google.com/file/d/1igcbh180vqV-s60NOA8r3ZQ4LWBO-nm2/view?usp=sharing' target="_blank"
             >
               Download Resume <BsFillPersonLinesFill size={30} />
             </a>
