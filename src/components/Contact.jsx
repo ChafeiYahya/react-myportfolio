@@ -17,8 +17,8 @@ const Contact = () => {
        
             <div className='pb-8  flex-col max-w-[600px] w-full ' >
                 <p className='text-5xl font-bold inline border-b-4 border-blue-600 text-gray-100 '>Contact</p> 
-                <p className='text-gray-100 py-12  text-4xl '>Email <br></br>chafei.yahya@gmail.com</p>
-                <p className='text-gray-100 py-4    text-4xl '>Phone <br></br>+212 640 74 65 21</p>
+                <p className='text-gray-100 py-4   '>Email <br></br>chafei.yahya@gmail.com</p>
+                <p className='text-gray-100 py-4     '>Phone <br></br>+212 640 74 65 21</p>
             </div>
         
        
